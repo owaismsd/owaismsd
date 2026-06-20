@@ -54,8 +54,12 @@
 
 ### 📌 Featured Projects
 
-<!-- Replace these with your actual pinned repo links once ready -->
-> 🔗 Pin your top 3–4 repositories on your GitHub profile (click "Customize your pins" on your profile page) — they'll show up right below this README automatically.
+- 🌦️ **[RealTime-Weather](https://github.com/owaismsd/RealTime-Weather)** — A live weather app built with JavaScript
+- 💼 **[Portfolio](https://github.com/owaismsd/Portfolio)** — My personal developer portfolio website
+- 💰 **[Crypto-Profit-Calculator](https://github.com/owaismsd/Crypto-Profit-Calculator)** — A simple calculator for tracking crypto profit/loss
+- 📖 **[ilmaara](https://github.com/owaismsd/ilmaara)** — [Add a short one-line description here]
+
+> 💡 Tip: Click **"Customize your pins"** on your GitHub profile page to feature these same repos visually right below this README.
 
 ---
 
