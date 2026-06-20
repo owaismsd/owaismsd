@@ -59,8 +59,6 @@
 - 💰 **[Crypto-Profit-Calculator](https://github.com/owaismsd/Crypto-Profit-Calculator)** — A simple calculator for tracking crypto profit/loss
 - 📖 **[ilmaara](https://github.com/owaismsd/ilmaara)** — [Add a short one-line description here]
 
-> 💡 Tip: Click **"Customize your pins"** on your GitHub profile page to feature these same repos visually right below this README.
-
 ---
 
 <p align="center">
